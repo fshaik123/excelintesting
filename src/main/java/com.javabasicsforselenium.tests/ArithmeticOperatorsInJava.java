@@ -1,7 +1,7 @@
 package com.javabasicsforselenium.tests;
 
 public class ArithmeticOperatorsInJava {
-    public static void main(String[] orgs) {
+    public static void main(String[] args) {
         int num1 = 2;
         int num2 = 3;
         int num3 = 4;
@@ -36,7 +36,7 @@ public class ArithmeticOperatorsInJava {
         //  or
         num2 = num2 * 2;
 
-        num3 /= 4 // Division by any value
+        num3 /= 4; // Division by any value
         //  or
         num3 = num3 / 4;
     }
